@@ -1,9 +1,7 @@
 <template>
   <v-app-bar flat>
     <v-app-bar-title>
-      <v-icon icon="mdi-circle-slice-4" />
-
-      Base Preset
+      <v-img src="/images/cpa-logo.jpg" max-width="100"></v-img>
     </v-app-bar-title>
   </v-app-bar>
 </template>
